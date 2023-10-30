@@ -12,7 +12,7 @@ Or,
 int main() {
   printf("c\n");
 }
-``
+```
 How about pythong?`
 
 ```python
