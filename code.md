@@ -20,3 +20,9 @@ def func(a: int, b: float) -> None
 {
 }
 ```
+
+or bash?
+
+```bash
+echo "hello"
+```
