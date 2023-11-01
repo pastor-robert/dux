@@ -57,7 +57,7 @@ I hope to write technical articales, thelogical articles, and
 anything else 
 
 
-## WHen?
+## When?
 
 * 30 October, 2023. First 
 
@@ -66,8 +66,9 @@ anything else
 ### ... is the HTML stored?
 
 The secret sauce in docsify is this: the HTML is never stored
-nor transmitted. The is written in Markdown. It is rendered
-to HTML in the browser!
+nor transmitted. The content is written in Markdown.
+The content is transmitted to the browser in Markdown.
+It is rendered to HTML by a Javascript program in the browser!
 
 ### ... is the blog hosted?
 
